@@ -100,16 +100,12 @@
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://65.2.131.21:8081/repository/walmart-release/</url>
-		    <username>admin</username>
-                    <password>admin123</password>
                </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://65.2.131.21:8081/repository/walmart-snapshot/</url>
-		    <username>admin</username>
-                    <password>admin123</password>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
